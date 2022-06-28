@@ -1,0 +1,55 @@
+header {
+    background-color: lightblue;
+    text-align: center;
+}
+
+
+
+h1 {
+    color: red;
+    background-color: gold;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+nav {
+    background-color: rgb(51, 51, 51);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
+nav a:hover {
+    background-color: white;
+    color: black;
+}
+
+footer {
+    color: white;
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+div {
+    padding: 35px;
+}
